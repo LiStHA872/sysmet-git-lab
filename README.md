@@ -9,5 +9,3 @@
    6.2 Gör en `commit` som löser konflikten  
    6.3 Gå till steg 5  
 7. Gå vidare till steg 18 i laborationen!
-
-[Borde det vara en fork?]()
