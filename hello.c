@@ -9,5 +9,6 @@ int main(void)
     printf("Hello from Wiggo\n");
     printf("Hello from Ruben\n");
     printf("Hello from Christoffer\n");
+    printf("Hello from Silviu\n");
     return 0;
 }
